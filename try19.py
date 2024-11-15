@@ -277,10 +277,13 @@ def generate_excel_file():
 
 # Update the function to handle the data icon click event
 def on_data_icon_click(event):
+    
     # Prompt user for WhatsApp number
     whatsapp_number = simpledialog.askstring("WhatsApp Number", "Enter the WhatsApp number (+countrycodephonenumber):")
-    
+   
+
     if whatsapp_number:
+        
         # Generate Excel file
         file_path = generate_excel_file()
         
