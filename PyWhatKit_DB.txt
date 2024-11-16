@@ -128,3 +128,8 @@ Time: 20:40
 Phone Number: +916280071704
 Message: Here is the recognition log report. The file is saved locally at: C:\Users\premk\Music\face-recognizer\recognition_log.xlsx
 --------------------
+Date: 15/11/2024
+Time: 13:0
+Phone Number: +916280071704
+Message: Here is the recognition log report. The file is saved locally at: C:\Users\premk\Music\face-recognizer\recognition_log.xlsx
+--------------------
