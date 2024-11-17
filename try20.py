@@ -11,15 +11,10 @@ import pandas as pd
 import pywhatkit as pwk
 from tkinter import simpledialog
 from tkinter import messagebox
-from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
-from googleapiclient.discovery import build
 import tkinter as tk
 from tkinter import messagebox, filedialog, simpledialog
 import pandas as pd
 import pywhatkit as pwk
-from googleapiclient.http import MediaFileUpload 
-from googleapiclient.http import MediaFileUpload
 from datetime import datetime, timedelta
 
 
